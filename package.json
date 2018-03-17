@@ -1,0 +1,11 @@
+{
+  "name": "js-tdd-course",
+  "version": "1.0.0",
+  "description": "TDD in JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Darlison Alves <darlinsonalves@gmail.com>",
+  "license": "MIT"
+}
